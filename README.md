@@ -3,7 +3,10 @@
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=decima)](https://github.com/LordDashMe/github-contribution-stats/)
 
+
 <!--
+![](https://github-readme-stats.vercel.app/api?username=decima&count_private=true&show_icons=true&bg_color=30,FF3399,9933FF&title_color=FFF&text_color=FFF&icon_color=FFFFFF&hide_border=1)
+
 **decima/decima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
