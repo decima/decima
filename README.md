@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=decima&hide=css,html,twig&layout=compact)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=decima)](https://github.com/LordDashMe/github-contribution-stats/)
-
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=decima)
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=decima&count_private=true&show_icons=true&bg_color=30,FF3399,9933FF&title_color=FFF&text_color=FFF&icon_color=FFFFFF&hide_border=1)
